@@ -52,4 +52,4 @@ As ferramentas que estou utilizando nesta jornada:
 
 Estou sempre aberto a feedbacks, dicas e novas conexões. Vamos conversar!
 
-- **LinkedIn:** [https://www.linkedin.com/in/antonio-m-tiburtino-desenvolvedo/](https://www.linkedin.com/in/antonio-m-tiburtino-desenvolvedo/)
+- **LinkedIn:** [https://www.linkedin.com/in/antonio-m-tiburtino-desenvolvedo/](https://www.linkedin.com/in/antonio-m-tiburtino-desenvolvedor/)
